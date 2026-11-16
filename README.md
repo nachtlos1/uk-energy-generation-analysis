@@ -116,4 +116,4 @@ sqlite3 data/energy.db < sql/analysis.sql  # or open data/energy.db in DB Browse
 
 ---
 
-*Author: [ArcSkt1](https://github.com/ArcSkt1) · CompTIA A+ · CompTIA Network+ · Studying AWS Cloud Practitioner*
+*Author: [nachtlos1](https://github.com/nachtlos1) · CompTIA A+ · CompTIA Network+ · Studying AWS Cloud Practitioner*
